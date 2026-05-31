@@ -1,0 +1,19 @@
+@media (max-width:1365px) {
+    .header {
+}
+.header__container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0px !important;
+}
+}
+@media(max-width:1024px){
+.header {
+    width: 100%;
+    position: fixed;
+    z-index: 1111;
+    top: 0px;
+}
+.header__container {
+}
+}
